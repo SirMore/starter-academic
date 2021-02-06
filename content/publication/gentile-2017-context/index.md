@@ -35,6 +35,10 @@ projects: []
 publishDate: '2021-02-06T20:41:37.397406Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'We investigate a novel cluster-of-bandit algorithm CAB for collaborative recommendation
+tasks that implements the underlying feedback sharing mechanism by estimating user neighborhoods in a context-dependent manner. CAB makes sharp departures from the state of the art by incorporating collaborative effects into inference, as well as learning processes in a manner
+that seamlessly interleaves explore-exploit tradeoffs and collaborative steps. We prove regret bounds for CAB under various data-dependent assumptions which exhibit a crisp dependence on the expected number of clusters over the users, a natural measure of the statistical difficulty of the learning task. Experiments on production and
+real-world datasets show that CAB offers significantly increased prediction performance against a representative pool of state-of-the-art methods.
+'
 publication: '*International Conference on Machine Learning*'
 ---
