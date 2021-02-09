@@ -39,3 +39,8 @@
   name = "Software"
   url = "https://mldanalytics.blogspot.com/"
   weight = 70
+
+[[main]]
+  name = "Courses"
+  url = "courses/"
+  weight = 80
