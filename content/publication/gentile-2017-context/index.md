@@ -35,7 +35,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-02-06T20:41:37.397406Z'
-publication_types: ["1"]
+publication_types: 
 - '1'
 abstract: 'We investigate a novel cluster-of-bandit algorithm CAB for collaborative recommendation
 tasks that implements the underlying feedback sharing mechanism by estimating user neighborhoods in a context-dependent manner. CAB makes sharp departures from the state of the art by incorporating collaborative effects into inference, as well as learning processes in a manner
