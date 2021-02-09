@@ -29,8 +29,14 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
+  - name: Modelling
+    tag: Modelling
+  - name: Simulation 
+    tag: Simulation 
+  - name: COP 
+    tag: COP
   - name: Other
-    tag: Demo
+    tag: Demo  
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
