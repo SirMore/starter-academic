@@ -39,7 +39,7 @@ real-world datasets show that CAB offers significantly increased prediction perf
 
 tags: []
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
