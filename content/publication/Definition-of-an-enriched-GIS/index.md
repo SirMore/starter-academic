@@ -60,6 +60,7 @@ image:
 #   Otherwise, set `projects: []`.
 projects: 
 - Network-Generation-from-Gis
+- dynamic-evacuation-models
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

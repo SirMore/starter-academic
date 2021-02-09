@@ -2,12 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Dynamic Evacuation Models"
-summary: "Among the most serious natural disasters, earthquakes cause severe damages to infrastructures and building, can kill or injure thousands of humans and animals and, in the luckiest circumstances, just make people homeless destroying communities, habitats, economies and mental equilibrium. 
-In order to minimise the loss of lives, an effective evacuation plan to cope with worldwide disasters is required.
-In this paper we describe a novel approach to timely formulate an evacuation plan of an area struck by an earthquake. The proposed solution leverages on a two-steps modeling framework: 
-1. a method that extracts from enriched GIS %(Geographical Information System) 
-data a network description of the area to be evacuated; 
-2. a dynamic optimization model that calculates the safest paths citizens should follow to reach pre-identified safe areas. While the network is computed off-line at design time, the optimization model, or one of its reductions, can be embedded in a real-time system that, recomputing it several times, can guide citizen after a natural disaster even in case of high dynamic scenario."
+summary: "An emergeny evacuation modeling framework to help evacuees in times of any disaster either natural or man-made."
 authors: 
 - admin
 tags: 
@@ -51,3 +46,11 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+### Overview
+Among the most serious natural disasters, earthquakes cause severe damages to infrastructures and building, can kill or injure thousands of humans and animals and, in the luckiest circumstances, just make people homeless destroying communities, habitats, economies and mental equilibrium. 
+In order to minimise the loss of lives, an effective evacuation plan to cope with worldwide disasters is required.
+In this paper we describe a novel approach to timely formulate an evacuation plan of an area struck by an earthquake. The proposed solution leverages on a two-steps modeling framework: 
+1. a method that extracts from enriched GIS %(Geographical Information System) 
+data a network description of the area to be evacuated; 
+2. a dynamic optimization model that calculates the safest paths citizens should follow to reach pre-identified safe areas. While the network is computed off-line at design time, the optimization model, or one of its reductions, can be embedded in a real-time system that, recomputing it several times, can guide citizen after a natural disaster even in case of high dynamic scenario.
