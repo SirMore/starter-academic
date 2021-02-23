@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: Statistics 
 - description: 80%
-  icon: function
+  icon: square-root-alt
   icon_pack: far
   name: Mathematical Optmization Modelling
 - description: 80%
