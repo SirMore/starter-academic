@@ -37,10 +37,15 @@
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
 [[main]]
   name = "Blog"
-  url = "https://mldanalytics.blogspot.com/"
+  url = "https://eehoward-blog.netlify.app/"
   weight = 60
 
 [[main]]
   name = "Courses"
   url = "courses/"
   weight = 70
+
+[[main]]
+  name = "Google-Blog"
+  url = "https://mldanalytics.blogspot.com/"
+  weight = 80
