@@ -23,18 +23,29 @@ feature:
 - description: 80%
   icon: chart-line
   icon_pack: fas
-  name: Statistics and Optimization
-- description: 70%
+  name: Statistics 
+- description: 80%
+  icon: function
+  icon_pack: fas
+  name: Mathematical Optmization Modelling
+- description: 80%
   icon: python
   icon_pack: fab
   name: Python
-  
+- description: 50%
+  icon: linux
+  icon_pack: fab
+  name: Unix 
+- description: 65%
+  icon: aws
+  icon_pack: fab
+  name: Cloud Computing
 
 # Uncomment to use emoji icons.
-#- icon: ":smile:"
-#  icon_pack: "emoji"
-#  name: "Emojiness"
-#  description: "100%"  
+- icon: ":smile:"
+  icon_pack: "emoji"
+  name: "Emojiness"
+  description: "100%"  
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
