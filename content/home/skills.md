@@ -26,7 +26,7 @@ feature:
   name: Statistics 
 - description: 80%
   icon: function
-  icon_pack: fas
+  icon_pack: far
   name: Mathematical Optmization Modelling
 - description: 80%
   icon: python
