@@ -7,4 +7,4 @@ header:
   image: ""
 ---
 
-I teach the following courses:
+I will teach the following courses in the near future:

@@ -13,7 +13,7 @@
 #   Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/themes/
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "ocean"   #"minimal" "1950s" "coffee" "forest"  "mrrobot" "apogee" "dark" "ocean" "rose" "strawberry"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -88,7 +88,7 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "eva.etruehoward@gmail.com"
+#email = "eva.etruehoward@gmail.com"
 #phone = "888 888 88 88"
 
 # Address
@@ -112,12 +112,12 @@ appointment_url = "https://calendly.com"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "SMore_eehoward", link = "https://twitter.com/SMore_eehoward"},
+  {icon = "twitter", icon_pack = "fab", name = "Follow me on Twitter", link = "https://twitter.com/SMore_eehoward"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-   {icon = "instagram", icon_pack = "fab", name = "IG", link = "https://www.instagram.com/kwabena_more/"},
+   {icon = "instagram", icon_pack = "fab", name = "Follow me on Instagram", link = "https://www.instagram.com/kwabena_more/"},
   # {icon = "google-scholar", icon_pack = "ai", name = "Google Scholar", link = "https://scholar.google.com/citations?hl=en&user=aIhecGEAAAAJ"}
   ]
 
@@ -129,7 +129,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "SMore_eehoward"
 
 ############################
 ## Regional Settings

@@ -77,9 +77,9 @@ email: "eva.etruehoward@gmail.com"
 highlight_name: false
 ---
 
-Evans Etrue Howard is a PhD Candidate in  Information and Communication Technology at University of L'Aquila.  My research interests include dynamic evacuation model, dealing with the exact solution, as well as finding heuristics to problems which are somehow difficult to solve using the exact procedures and  simulation of evacuation processes as well.
+Evans Etrue Howard is a PhD Candidate in  Information and Communication Technology at University of L'Aquila.  His focuses on modeling and solving large-scale optimization problems. In the optimization domain specific research areas are Integer Programming, Network Optimization, Combinatorial Optimization and Scheduling. 
 
-He is very interested in researching into network optimization models especially ones geared towards emergency evacuation either pre- or post - disaster. 
+His activities mainly concentrate on methods for finding provably good solutions (exact or heuristics) to emergengency evaacuation planning either pre- or post- disasters. Techniques been developed are applied to real life application of pedestrain evacuation.  
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
