@@ -118,6 +118,7 @@ contact_links = [
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
    {icon = "instagram", icon_pack = "fab", name = "IG", link = "https://www.instagram.com/kwabena_more/"},
+  # {icon = "google-scholar", icon_pack = "ai", name = "Google Scholar", link = "https://scholar.google.com/citations?hl=en&user=aIhecGEAAAAJ"}
   ]
 
 ############################
